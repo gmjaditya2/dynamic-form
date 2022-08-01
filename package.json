@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-form-esya-assignment",
+  "version": "0.0.1",
+  "description": "Experiments to build dynamic form using an array of objects that contain field definitions and also being able to initialize them with initialValues",
+  "keywords": [
+    "redux-form"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "redux-form-website-template": "0.0.41",
+    "redux-form": "7.0.4",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "15.6.1",
+    "react": "15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
