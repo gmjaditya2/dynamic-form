@@ -2,7 +2,7 @@
 
 This project creates 2 or more form fields via json file.
 So you can render a large form just by updating in the json file.
-It also helps to modify the form field type , certain attributes like visibility, etc.
+It also helps to modify the form field type, certain attributes like visibility, etc.
 
 ## Node version
 
